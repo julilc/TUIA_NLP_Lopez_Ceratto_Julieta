@@ -3,9 +3,6 @@
    xmlns:ex="http://wiki_rajas.org/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://wiki_rajas.org/Dice_Realm">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/Rajas_of_the_Ganges">
     <rdf:type rdf:resource="http://wiki_rajas.org/Game"/>
     <ex:designedBy rdf:resource="http://wiki_rajas.org/Inka_Brand"/>
@@ -35,50 +32,21 @@
     <ex:awardedOrNominated rdf:resource="http://wiki_rajas.org/2018_-_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Winner"/>
     <ex:awardedOrNominated rdf:resource="http://wiki_rajas.org/2018_-_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Nominee"/>
     <ex:awardedOrNominated rdf:resource="http://wiki_rajas.org/2017_-_Meeples_Choice_Award_Nominee"/>
+    <ex:Release_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</ex:Release_year>
+    <ex:Release_year rdf:resource="http://wiki_rajas.org/2017"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/Ganges">
     <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Fabrika_Igr">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Devir">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/India">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Country"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/DV_Games">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/2018_-_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Nominee">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/2017_-_Meeples_Choice_Award_Nominee">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Game_Harbor">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Inka_Brand">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Designer"/>
-    <ex:partner rdf:resource="http://wiki_rajas.org/Markus_Brand"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/HUCH%21">
     <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/%E3%82%AC%E3%83%B3%E3%82%B8%E3%82%B9%E3%81%AE%E8%97%A9%E7%8E%8B">
+    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/Markus_Brand">
     <rdf:type rdf:resource="http://wiki_rajas.org/Designer"/>
     <ex:partner rdf:resource="http://wiki_rajas.org/Inka_Brand"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/nostalgia_%28III%29">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/%D0%A0%D0%B0%D0%B4%D0%B6%D0%B8_%D0%93%D0%B0%D0%BD%D0%B3%D0%B0">
-    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/I_Ragi%C3%A0_del_Gange">
-    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/999_Games">
     <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
@@ -86,26 +54,11 @@
   <rdf:Description rdf:about="http://wiki_rajas.org/Hinduism">
     <rdf:type rdf:resource="http://wiki_rajas.org/Religion"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/2019_-_MinD-Spielepreis_Complex_Game_Nominee">
+  <rdf:Description rdf:about="http://wiki_rajas.org/2017_-_Meeples_Choice_Award_Nominee">
     <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/R%26R_Games">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/%EA%B0%A0%EC%A7%80%EC%8A%A4%EC%9D%98_%EB%9D%BC%EC%9E%90">
-    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/2018_-_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Winner">
     <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Egmont_Polska">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/2018_-_Juego_del_A%C3%B1o_Recommended">
-    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/Raja%27s_van_de_Ganges">
-    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://wiki_rajas.org/HOT_Games">
     <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
@@ -113,7 +66,59 @@
   <rdf:Description rdf:about="http://wiki_rajas.org/Dennis_Lohausen">
     <rdf:type rdf:resource="http://wiki_rajas.org/Artist"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://wiki_rajas.org/%E3%82%AC%E3%83%B3%E3%82%B8%E3%82%B9%E3%81%AE%E8%97%A9%E7%8E%8B">
+  <rdf:Description rdf:about="http://wiki_rajas.org/Inka_Brand">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Designer"/>
+    <ex:partner rdf:resource="http://wiki_rajas.org/Markus_Brand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/2019_-_MinD-Spielepreis_Complex_Game_Nominee">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/R%26R_Games">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/I_Ragi%C3%A0_del_Gange">
     <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/nostalgia_%28III%29">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Game_Harbor">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/2017">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Release_year"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/2018_-_Juego_del_A%C3%B1o_Recommended">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/DV_Games">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/%D0%A0%D0%B0%D0%B4%D0%B6%D0%B8_%D0%93%D0%B0%D0%BD%D0%B3%D0%B0">
+    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/%EA%B0%A0%EC%A7%80%EC%8A%A4%EC%9D%98_%EB%9D%BC%EC%9E%90">
+    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Fabrika_Igr">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Egmont_Polska">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/2018_-_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Nominee">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/India">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Raja%27s_van_de_Ganges">
+    <rdf:type rdf:resource="http://wiki_rajas.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Dice_Realm">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_rajas.org/Devir">
+    <rdf:type rdf:resource="http://wiki_rajas.org/Publisher"/>
   </rdf:Description>
 </rdf:RDF>
